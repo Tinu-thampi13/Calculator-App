@@ -3,7 +3,11 @@
 ## Overview
 This is a simple calculator app designed to perform basic arithmetic operations. It's built with Flutter, making it accessible on both iOS and Android devices.
 
-![Calculator App](app_screenshot.png)
+## Project Preview
+<p float="left">
+ <img src="https://github.com/Tinu-thampi13/Calculator-App/assets/79778565/ca454e8f-6fa0-4047-b971-5da551b08a44.jpeg" height= 400 width= 200 hspace="1"/>
+ <img src="https://github.com/Tinu-thampi13/Calculator-App/assets/79778565/bc7e16ae-05c1-4f9d-8f09-1a2af3622dc1.jpeg" height= 400 width= 200 hspace="1"/>
+</p>
 
 ## Features
 - Addition (+)
